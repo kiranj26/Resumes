@@ -1,2 +1,2 @@
 # Resume
-The repository forstoring resumes.
+The repository for storing resumes.
